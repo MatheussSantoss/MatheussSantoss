@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ***@MatheussSantoss***
+- 👋 Hi, I’m **@MatheussSantoss**
 - 👀 I’m interested in learn new programming languages
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning *JavaScript* and *Python*
 - 📫 How to reach me @matheusOS2006@outlook.com
 
 <!---
